@@ -1,8 +1,8 @@
 # Tech Layoffs 2026 — AI Job Cuts Tracker Analysis
 
 **Author:** Taimoor Ali  
-**Background:** BS Mathematics, University of Jhang  
-**Tools:** Python, Pandas, Matplotlib, Seaborn
+**Dataset:** Tech Layoffs 2026 | AI Job Cuts Tracker — Kaggle (alitaqishah)
+**Tools:** Python, Pandas, Matplotlib, Seaborn, Plotly
 
 ---
 
